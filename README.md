@@ -1,27 +1,22 @@
 # Sanouk-Seakphalsoeun
-# Hello, I'm CHANGEME
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a business analyst with skills and experiences to tackle chanlleging business concepts into simple layouts which enhance decision-making abilities and sustainability management over wealth and portfolio management.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My aim is to develop a pipeline system which supervises the performances of investment strategies, giving the effective control to accomplish the dimensions of ESG criteria so that companies ethically utilize their data to account not just for profitability but also the sustainability of business operations toward the environment, skills market, and human rights as technology progresses.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SQL Data Analytics                            | <a href="https://google.com">Detection Lab</a>|
+| Machine learning with Python & R              | <a href="https://google.com">Detection Lab</a>|
+| Quantitative Markets Research                 | SOC Automation Lab|
+| Business Acumen Development                   | SOC Automation Lab|
+| Pipeline Management                           | SOC Automation Lab|
+| Communication & Teamwork                      | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
