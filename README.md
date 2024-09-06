@@ -19,7 +19,6 @@ My aim is to develop a pipeline system which supervises the performances of inve
 | Communication & Teamwork                      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
