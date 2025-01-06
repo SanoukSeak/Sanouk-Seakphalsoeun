@@ -9,14 +9,14 @@ My aim is to develop a pipeline system which supervises the performances of inve
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SQL Data Analytics                            | <a href="https://google.com">Detection Lab</a>|
-| Machine learning with Python & R              | <a href="https://google.com">Detection Lab</a>|
-| Quantitative Markets Research                 | SOC Automation Lab|
-| Business Acumen Development                   | SOC Automation Lab|
-| Pipeline Management                           | SOC Automation Lab|
-| Communication & Teamwork                      | SOC Automation Lab|
+| Skill                                         |
+|-----------------------------------------------|
+| SQL Data Analytics                            |
+| Machine learning with Python & R              |
+| Quantitative Markets Research                 |
+| Business Acumen Development                   |
+| Pipeline Management                           |
+| Communication & Teamwork                      |
 
 ## Tools
 
@@ -57,6 +57,3 @@ My aim is to develop a pipeline system which supervises the performances of inve
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
