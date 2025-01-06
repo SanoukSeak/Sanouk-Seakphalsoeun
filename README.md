@@ -5,7 +5,7 @@ I am a business analyst with skills and experiences to tackle chanlleging busine
 
 ## Objective
 
-My aim is to develop a pipeline system which supervises the performances of investment strategies, giving the effective control to accomplish the dimensions of ESG criteria so that companies ethically utilize their data to account not just for profitability but also the sustainability of business operations toward the environment, skills market, and human rights as technology progresses.
+My goal is to develop a pipeline system that oversees the performance of investment strategies, ensuring companies leverage fintech innovations for maximum returns. This ethical use of fintech will enhance operational efficiency while maintaining profitability. The system offers constructive analytics for informed decision-making in many high performing industries, utilizing methods like machine and deep learning. Ultimately, it aims to create a business environment where sustainability and profitability coexist, helping companies stay competitive and gain stakeholder trust.
 
 ## Skills
 
