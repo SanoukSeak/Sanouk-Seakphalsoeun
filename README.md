@@ -3,6 +3,8 @@
 
 I am a business analyst with skills and experiences to tackle chanlleging business concepts into simple layouts which enhance decision-making abilities and sustainability management over wealth and portfolio management.
 
+I consolidate data prescriptions to produce insights to support effective corporate decision-making and maximize portfolio performance returns. Quantitative Industry and company research to target investment and acquisition opportunities.
+
 ## Objective
 
 My goal is to develop a pipeline system that oversees the performance of investment strategies, ensuring companies leverage fintech innovations for maximum returns. This ethical use of fintech will enhance operational efficiency while maintaining profitability. The system offers constructive analytics for informed decision-making in many high performing industries, utilizing methods like machine and deep learning. Ultimately, it aims to create a business environment where sustainability and profitability coexist, helping companies stay competitive and gain stakeholder trust.
