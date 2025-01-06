@@ -48,7 +48,8 @@ My goal is to develop a pipeline system that oversees the performance of investm
 <div>
     <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
 <div>
-  
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<div>
 
 ### Certifications
 <div>
