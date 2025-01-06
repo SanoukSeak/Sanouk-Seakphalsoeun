@@ -50,7 +50,7 @@ My goal is to develop a pipeline system that oversees the performance of investm
 <div>
   
 
-## Certifications
+### Certifications
 <div>
 <img src="https://img.shields.io/badge/-DataCamp-0F4C81?style=for-the-badge&logo=DataCamp&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
